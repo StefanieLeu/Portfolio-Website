@@ -28,6 +28,7 @@ Major frameworks/libraries used to bootstrap this project:
 
  <ol> 
    <li> Install NPM packages </li>
+   <li> ... </li>
    <li> Enter your OpenAI API key in GPT.js </li>
  </ol> 
 
